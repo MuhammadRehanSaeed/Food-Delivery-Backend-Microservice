@@ -86,5 +86,3 @@ It includes secure authentication using **JWT**, centralized validation with **O
 
 ---
 
-## 📐 Architecture Flow
-
